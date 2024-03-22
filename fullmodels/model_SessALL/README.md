@@ -1,0 +1,1 @@
+Extract downloaded checkpoint here. Trainng checkpoints are also saved here.

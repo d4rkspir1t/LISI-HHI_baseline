@@ -1,0 +1,12 @@
+mpl_toolkits
+opencv-python
+imageio
+imageio[ffmpeg]
+matplotlib
+notebook
+jupyterlab
+scikit-learn
+pickle5
+pandas
+scipy
+numpy
